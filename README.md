@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Austine Odanga Oketch</h1>
-<h3 align="center">A web developer from Kenya.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oketchodanga&label=Profile%20views&color=0e75b6&style=flat" alt="oketchodanga" /> </p>
 
 - 🌱 I’m currently learning **Data Engineering**
 
