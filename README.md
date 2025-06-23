@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oketchodanga&label=Profile%20views&color=0e75b6&style=flat" alt="oketchodanga" /> </p>
 
-- 🌱 I’m currently learning **React and Express.js**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 📫 How to reach me **austinoketches@gmail.com**
 
